@@ -1,5 +1,6 @@
 
 TEMÁTICA : Estado Situacional del COVID19 en la Ciudad Autónoma de Buenos Aires (CABA) – Argentina
+
 SECTOR : SALUD
 
 La temática a analizar en el siguiente proyecto es el Estado Situacional del COVID19 en la Ciudad Autónoma de Buenos Aires en el periodo 2020 a 2022, la cual 
