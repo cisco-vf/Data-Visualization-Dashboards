@@ -3,6 +3,9 @@ TEMÁTICA : Estado Situacional del COVID19 en la Ciudad Autónoma de Buenos Aire
 
 SECTOR : SALUD
 
+LINK DEL DASHBOARD: https://www.novypro.com/project/covid19-caba
+
+
 La temática a analizar en el siguiente proyecto es el Estado Situacional del COVID19 en la Ciudad Autónoma de Buenos Aires en el periodo 2020 a 2022, la cual 
 permitirá:
 - Identificar el número total de casos (confirmados, descartados y sospechosos) de COVID19 por Barrio y Tipo de Contagio en los años del 2020 al 2022 versus el 
@@ -19,12 +22,3 @@ de CABA.
 Esto nos permitirá tener una visión integral del estado situacional de los casos COVID acontecidos, de cómo va desarrollándose la campaña de vacunación 
 contra la COVID9, dónde puede acudir la población para su revisión y vacunación contra la COVID19, asimismo, nos permitirá tomar acciones preventivas de 
 salud pública para poder enfrentar una posible nueva ola, a fin de salvaguardar a la población de CABA.
-
-LINK DEL DASHBOARD: https://www.novypro.com/project/covid19-caba
-
-
-
-
-
-
-[DOCUMENTACIÓN FINAL PROYECTO DATA ANALYTICS - FRANCISCO VELA FLORES.pdf](https://github.com/cisco-vf/Data-Visualization-Dashboards/files/9966116/DOCUMENTACION.FINAL.PROYECTO.DATA.ANALYTICS.-.FRANCISCO.VELA.FLORES.pdf)
