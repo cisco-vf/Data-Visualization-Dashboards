@@ -21,3 +21,10 @@ contra la COVID9, dónde puede acudir la población para su revisión y vacunaci
 salud pública para poder enfrentar una posible nueva ola, a fin de salvaguardar a la población de CABA.
 
 LINK DEL DASHBOARD: https://www.novypro.com/project/covid19-caba
+
+
+
+
+
+
+[DOCUMENTACIÓN FINAL PROYECTO DATA ANALYTICS - FRANCISCO VELA FLORES.pdf](https://github.com/cisco-vf/Data-Visualization-Dashboards/files/9966116/DOCUMENTACION.FINAL.PROYECTO.DATA.ANALYTICS.-.FRANCISCO.VELA.FLORES.pdf)
