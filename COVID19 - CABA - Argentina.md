@@ -1,10 +1,11 @@
-**EL PRESENTE DASHBOARD FUÉ DESARROLLADO EN MICROSOFT POWER BI**
+### EL PRESENTE DASHBOARD FUÉ DESARROLLADO EN MICROSOFT POWER BI ###
 
-TEMÁTICA : Estado Situacional del COVID19 en la Ciudad Autónoma de Buenos Aires (CABA) – Argentina
 
-SECTOR : SALUD
+***TEMÁTICA :*** Estado Situacional del COVID19 en la Ciudad Autónoma de Buenos Aires (CABA) – Argentina
 
-LINK DEL DASHBOARD: https://www.novypro.com/project/covid19-caba
+***SECTOR :*** SALUD
+
+***LINK DEL DASHBOARD:*** https://www.novypro.com/project/covid19-caba
 
 
 La temática a analizar en el siguiente proyecto es el Estado Situacional del COVID19 en la Ciudad Autónoma de Buenos Aires en el periodo 2020 a 2022, la cual 
