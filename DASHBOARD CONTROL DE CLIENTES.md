@@ -7,15 +7,16 @@
 
 ***LINK DEL DASHBOARD:*** https://www.novypro.com/project/dash-clientes
 
-
 La temática a analizar en el siguiente Dashboard es llevar el control de los clientes de un Negocio (Retail, Textil, Productivo, etc), la cual 
 permitirá:
-- Identificar el número total de clientes de un negocio y graficarlos 
-- Graficar:
-  - Por Nivel de Edcuación, si cuentan o no con Niños y Jóvenes en casa.
+- Identificar el número total de clientes de un negocio y graficar:
+  - Por Nivel de Educación
+  - Si cuentan o no con Niños en casa
+  - Si cuentan o no con Jóvenes en casa
   - Por Grupo de Compra reciente y Grupo Etario
   - Por Grupo de Ingresos y Grupo Etario
   - Por Edad y Grupo Etario adicionando una tabla resumen
+
 - Se podrá realizar análisis de acuerdo a las segmentaciones que se pueden realizar por:
   - Nivel de Educación
   - Niños en casa
