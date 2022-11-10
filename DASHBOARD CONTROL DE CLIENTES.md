@@ -15,13 +15,13 @@ permitirá:
   - Si cuentan o no con Jóvenes en casa
   - Por Grupo de Compra reciente y Grupo Etario
   - Por Grupo de Ingresos y Grupo Etario
-  - Por Edad y Grupo Etario adicionando una tabla resumen
+  - Por Edad y Grupo Etario adicionando una tabla resúmen
 
 - Se podrá realizar análisis de acuerdo a las segmentaciones que se pueden realizar por:
   - Nivel de Educación
   - Niños en casa
   - Jóvenes en casa
-  - Estado Civl
+  - Estado Civil
   - Ingresos
   - Grupo Etario
   - Grupo de Ingresos
