@@ -1,5 +1,3 @@
-### EL PRESENTE DASHBOARD FUÉ DESARROLLADO EN MICROSOFT POWER BI ###
-
 
 ***TEMÁTICA :*** Dashboard para el Control de Clientes de una Empresa
 
