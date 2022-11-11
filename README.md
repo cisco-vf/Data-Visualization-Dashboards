@@ -1,2 +1,2 @@
 # Data-Visualization-Dashboards
-Repositorio con Proyectos desarrollados en Ms Power BI, Tableau y Looker Studio (Google Data Studio) -  Tableros de Visualización de Datos
+Repositorio con Tableros de Visualización de Datos para Proyectos desarrollados en Power BI y Looker Studio (Google Data Studio) -  
