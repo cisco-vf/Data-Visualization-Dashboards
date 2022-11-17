@@ -5,6 +5,7 @@
 
 ***LINK DEL DASHBOARD:*** https://www.novypro.com/project/covid19-caba
 
+[![Captura-de-pantalla-84.png](https://i.postimg.cc/50cC3zGY/Captura-de-pantalla-84.png)](https://postimg.cc/Ny4FGKQB)
 
 La temática a analizar en el siguiente proyecto es el Estado Situacional del COVID19 en la Ciudad Autónoma de Buenos Aires en el periodo 2020 a 2022, la cual 
 permitirá:
