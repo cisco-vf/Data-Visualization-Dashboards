@@ -5,6 +5,8 @@
 
 ***LINK DEL DASHBOARD:*** https://www.novypro.com/project/dash-clientes
 
+[![Captura-de-pantalla-124.png](https://i.postimg.cc/MZL8rY5F/Captura-de-pantalla-124.png)](https://postimg.cc/gr35x8fV)
+
 La temática a analizar en el siguiente Dashboard es llevar el control de los clientes de un Negocio (Retail, Textil, Productivo, etc), la cual 
 permitirá:
 - Identificar el número total de clientes de un negocio y graficar:
