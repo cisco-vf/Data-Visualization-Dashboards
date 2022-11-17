@@ -4,6 +4,8 @@ SECTOR : Alimentación y Bebidas
 
 LINK DEL REPORTE: https://public.tableau.com/views/ProyectoRestauranteElQatar/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
+[![Captura-de-pantalla-128.png](https://i.postimg.cc/Yq2bYcQc/Captura-de-pantalla-128.png)](https://postimg.cc/jC9HYF8v)
+
 La temática a analizar en el siguiente Reporte es hacer un análisis de las ventas realizadas en el Restaurant "El Qatarí" en los periodos 2014/2015 e identificar los motivos de las reducciones de las ventas a pesar de que la inversión mensual continúa siendo la misma. 
 
 Conclusiones:
